@@ -1,2 +1,2 @@
-# Wall_Maker
-Make an effective and beautiful wall with Holoviews
+# wall_maker
+Make an effective and beautiful wall with Holoviews.
